@@ -21,4 +21,3 @@ Ce projet regroupe la documentation, les modèles PDDL/STRIPS, et les implément
 3. Ajouter visualisations et exemples exécutables (phase 3)
 
 *Le contenu complet (code et exemples) sera ajouté en complément du rapport.*
-# planification-en-IA-Robotique-autonome
